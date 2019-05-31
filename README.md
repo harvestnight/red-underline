@@ -1,12 +1,12 @@
 # Red-Underline
-## A repo that will not have to exist one day hopefully 
 
-This is an open source repo for girls(and boys) to write about your uncomfortable experience.
+This is an open source repo for girls（and boys) to write about your uncomfortable experience.
+You can check the .md file in directories sorted by area to get info. 
+
+## To contributors
 We appreciate various kinds of information, and thank you for making a contribution here
-to prevent a possible horrible event.
-Do notice that your information may well be seen by others, 
+to prevent a possible horrible event. Meanwhile, do notice that the information you offered may well be seen by others, 
 please write down your REAL and effective experience.</br>
-Thank you again.
 
 ## Usage
 Simply edit the .md file of the locale of your experience and commit it.
@@ -23,8 +23,12 @@ event number = last event number in this file +1
 
 ### **Example:**
 #### # 20190531-0731-001
-`作者`：Your Name</br>
+`作者`：Anything You’d Like to Use</br>
 `时间`：2019/05/31 14:00</br>
 `地点`：XX区XX路XX店外</br>
 `经过`:</br>
     xxxxx。
+
+## About the owner of the repo
+Wrote this in lame English out of some stupid habit. (Or maybe because I just don’t think that anyone will use it.)
+I will keep supporting this repo if someone’s ever commit the very first information.
