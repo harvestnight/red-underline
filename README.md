@@ -1,6 +1,6 @@
 # Red-Underline
 
-This is an open source repo for girls(and boys) to write about your uncomfortable experience. 
+This is an open source repo for girls(and boys) to write about your uncomfortable experience and expose the undesirable ones. 
 It’s public and can be modified by any users.
 You can check the *.md* file in directories sorted by area to get information you want. 
 
